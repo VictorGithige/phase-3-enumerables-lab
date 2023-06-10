@@ -1,3 +1,4 @@
+
 require 'pry'
 
 # this method returns an array of hashes, which we'll use in the other methods
